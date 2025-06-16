@@ -13,5 +13,5 @@ I'm a passionate Flutter Developer from Jordan 🇯🇴
 ![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidgasan02&show_icons=true&theme=radical)
 
 ### 📫 Reach me at:
-- 📧 Email: your.email@example.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 📧 Email: zaidabualhija9@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zaid-gasan-abu-alhija/)
