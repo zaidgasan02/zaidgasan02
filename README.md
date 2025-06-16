@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Zaid Abu Alhija
 
-<!--
-**zaidgasan02/zaidgasan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Flutter Developer from Jordan 🇯🇴  
+🚀 Currently building cross-platform mobile apps with love.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:
+- Flutter / Dart
+- Firebase / APIs
+- SQLite / Hive
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My GitHub Stats:
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidgasan02&show_icons=true&theme=radical)
+
+### 📫 Reach me at:
+- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
